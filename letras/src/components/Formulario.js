@@ -42,7 +42,7 @@ const Formulario = ({ guardarBusquedaletra }) => {
             className="col card text-white bg-transparent mb-5 pt-5 pb-2"
           >
             <fieldset>
-              <legend className="text-center">Canciones Anto<img src={clavesol} style={{width: '5%'}}></img></legend>
+              <legend className="text-center">Canciones<img src={clavesol} style={{width: '5%'}}></img></legend>
 
               <div className="row">
                 <div className="col-md-6">
